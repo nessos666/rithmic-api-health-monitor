@@ -1,0 +1,4 @@
+# No required dependencies – runs on Python 3.10+ stdlib only!
+
+# Optional: faster JSON parsing
+# orjson>=3.9.0
